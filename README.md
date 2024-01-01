@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 # Iris Flower Classification
 This Project is a part of Data Science internship at Oasis Infobyte. This project implements Machine Learning model for iris flower classification using K-nearest neighbors (KNN) algorithm.The app is built with Streamlit, allowing users to interactively input sepal and petal measurements to predict the species of an Iris flower.
 
